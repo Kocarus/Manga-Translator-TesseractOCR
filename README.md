@@ -5,7 +5,6 @@ Automatically translates manga pages from Japanese to English. Keep finding RAW 
 - Python 2.7 (using Python 3.x might lead to some Unicode conflict) 
 - [Tesseract](https://github.com/tesseract-ocr/tesseract)
 - [OpenCV with Python wrapper](https://pypi.org/project/opencv-python/)
-- [Node.js](https://nodejs.org)
 - [Google Translate API for Python](https://pypi.org/project/googletrans/)
 - [Pytesseract](https://pypi.python.org/pypi/pytesseract)
 - NumPy, SciPy, some other Python packages (**[PyCharm](https://www.jetbrains.com/pycharm/) is highly recommended for auto detect missing packages**)
