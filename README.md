@@ -1,5 +1,5 @@
 # Manga Translator
-Automatically translates manga pages from Japanese to English
+Automatically translates manga pages from Japanese to English. Keep finding RAW as many as possible and enjoy :sunglasses:
 
 # Dependencies
 - Python 2.7 (using Python 3.x might lead to some Unicode conflict) 
