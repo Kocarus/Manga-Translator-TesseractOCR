@@ -4,6 +4,7 @@ from googletrans import Translator
 
 translator = Translator()
 
+
 class Blurb(object):
   def __init__(self, x, y, w, h, text, confidence=100.0):
     self.x=x

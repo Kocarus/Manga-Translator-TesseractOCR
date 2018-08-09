@@ -5,10 +5,11 @@ import sys
 import cv2
 import numpy as np
 import pytesseract
+
 from PIL import Image
+from translate import Blurb
 from googletrans import Translator
 
-from translate import Blurb
 
 translator = Translator()
 
