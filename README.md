@@ -1,5 +1,5 @@
 # Manga Translator
-Automatically translates manga pages from Japanese to English. Keep finding RAW as many as possible and enjoy :sunglasses:
+Automatically translates manga pages from Japanese to English. So keep finding RAW as many as possible and enjoy :sunglasses:
 
 # Dependencies
 - Python 2.7 (using Python 3.x might lead to some Unicode conflict) 
@@ -10,8 +10,8 @@ Automatically translates manga pages from Japanese to English. Keep finding RAW 
 - NumPy, SciPy, some other Python packages (**[PyCharm](https://www.jetbrains.com/pycharm/) is highly recommended for auto detect missing packages**)
 
 # Steps
-- Add parameters in PyCharm
-![param](https://i.imgur.com/l6Ytyt9.png)
+- Add your images in ascending order into "**img**" folder and then create a new folder named "**translated**" in the repo
+![addImg](https://i.imgur.com/9ZylP1I.png)
 
 - Run **manga_translate.py** to extract texts and perform translation 
 ![run](https://i.imgur.com/WevvTVk.png)
