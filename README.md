@@ -22,4 +22,4 @@ Automatically translates manga pages from Japanese to English. So keep finding R
 ![karada](https://i.imgur.com/xf0BNDm.jpg)
 
 # Original code
-https://github.com/dalelyunas/manga-translator (Great code. I have modified a bit and this is beautiful for Mange Lovers :grin:)
+https://github.com/dalelyunas/manga-translator (Great code. I have modified a bit and this is beautiful for Manga Lovers :grin:)
